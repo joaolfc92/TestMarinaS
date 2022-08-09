@@ -1358,3 +1358,11 @@ ul li a:hover{
 	}
 }
 
+@media only screen and (max-width:995px){
+	#container-int-5 {
+		height: 1801px;
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 50px;
+	}
+}
